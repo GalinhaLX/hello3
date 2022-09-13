@@ -23,6 +23,12 @@
 				}
 			],
 			"offer_price": "12"
+		},
+		{
+			"offer_name": "menu 3",
+			"offer_category": [
+				{}
+			]
 		}
 	],
 	"cart": [
