@@ -25,7 +25,9 @@
 		{
 			"offer_name": "Menu 3",
 			"offer_category": [
-				{},
+				{
+					"category_name": "a"
+				},
 				{
 					"category_name": "b"
 				},
