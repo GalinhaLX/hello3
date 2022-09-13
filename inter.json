@@ -3,7 +3,9 @@
 		{
 			"offer_name": "Menu 1",
 			"offer_category": [
-				{},
+				{
+					"category_name": "a"
+				},
 				{
 					"category_name": "b"
 				}
