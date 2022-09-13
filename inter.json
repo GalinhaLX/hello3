@@ -40,15 +40,5 @@
 			"offer_price": "15"
 		}
 	],
-	"cart": [
-		{
-			"category_name": "a"
-		},
-		{
-			"category_name": "b"
-		},
-		{
-			"category_name": "c"
-		}
-	]
+	"cart": []
 }
