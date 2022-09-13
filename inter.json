@@ -54,7 +54,15 @@
 		{
 			"offer_name": "menu 5",
 			"offer_category": [
-				{}
+				{
+					"category_name": "z"
+				},
+				{
+					"category_name": "a"
+				},
+				{
+					"category_name": "c"
+				}
 			]
 		}
 	],
