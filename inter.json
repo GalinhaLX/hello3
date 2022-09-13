@@ -9,7 +9,9 @@
 				{
 					"category_name": "b"
 				},
-				{}
+				{
+					"category_name": "c"
+				}
 			],
 			"offer_price": "10"
 		},
