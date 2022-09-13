@@ -42,7 +42,12 @@
 		{
 			"offer_name": "menu 4",
 			"offer_category": [
-				{}
+				{
+					"category_name": "a"
+				},
+				{
+					"category_name": "c"
+				}
 			]
 		}
 	],
