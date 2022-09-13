@@ -44,6 +44,9 @@
 			"offer_category": [
 				{
 					"category_name": "c"
+				},
+				{
+					"category_name": "a"
 				}
 			],
 			"offer_price": "11"
