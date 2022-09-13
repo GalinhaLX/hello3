@@ -42,10 +42,10 @@
 	],
 	"cart": [
 		{
-			"category_name": "b"
+			"category_name": "c"
 		},
 		{
-			"category_name": "c"
+			"category_name": "b"
 		}
 	]
 }
